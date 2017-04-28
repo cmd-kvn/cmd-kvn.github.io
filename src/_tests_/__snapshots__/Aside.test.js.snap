@@ -1,7 +1,0 @@
-exports[`Aside runs the Aside 1`] = `
-<aside>
-  <img
-    alt="kevin headshot"
-    src="headshot.JPG" />
-</aside>
-`;

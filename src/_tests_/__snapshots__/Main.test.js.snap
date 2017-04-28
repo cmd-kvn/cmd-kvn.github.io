@@ -1,5 +1,0 @@
-exports[`Main runs the Main 1`] = `
-<main>
-  <Title />
-</main>
-`;
