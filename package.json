@@ -2,7 +2,7 @@
   "name": "cmd-kvn.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cmd-kvn.github.io/",
+  "homepage": "https://cmd-kvn.github.io/",
   "dependencies": {
     "enzyme": "^2.8.2",
     "enzyme-to-json": "^1.5.1",
