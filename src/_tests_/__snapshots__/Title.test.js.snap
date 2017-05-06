@@ -2,11 +2,7 @@ exports[`Title runs the Title 1`] = `
 <div>
   <p>
     <span
-      style={
-        Object {
-          "fontSize": 72,
-        }
-      }>
+      className="name">
       Kevin Wong
     </span>
      
