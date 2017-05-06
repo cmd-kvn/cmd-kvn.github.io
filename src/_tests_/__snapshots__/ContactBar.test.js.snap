@@ -1,0 +1,13 @@
+exports[`ContactBar runs the ContactBar 1`] = `
+<nav>
+  <img
+    alt="email icon"
+    src="email-icon.png" />
+  <img
+    alt="github icon"
+    src="github-icon.png" />
+  <img
+    alt="linkedIn icon"
+    src="linkedIn-icon.png" />
+</nav>
+`;

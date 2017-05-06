@@ -2,6 +2,7 @@ import React from 'react';
 
 import Title from './Title';
 import Intro from './Intro';
+import ContactBar from './ContactBar';
 // import '.css';
 
 const Main = () => {
@@ -9,6 +10,7 @@ const Main = () => {
         <main>
             <Title />
             <Intro />
+            <ContactBar />
         </main>
     );
 };
