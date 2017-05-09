@@ -1,5 +1,6 @@
-nav img {
+a img {
     height: 60px;
     width: 60px;
     padding: 20px;
+    border: none;
 }
