@@ -1,9 +1,11 @@
-p {
-    font-size: 24px;
-    font-family: Cabin
-}
-
-span {
+h1 {
     font-size: 72px;
     font-family: Rock Salt;
+    margin-top: 60px
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Cabin;
+    /*margin-top: 100px;*/
 }

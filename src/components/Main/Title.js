@@ -5,10 +5,8 @@ import './Title.css';
 const Title = () => {
     return (
         <div>
-            <p>
-                <span className='name'>Kevin Wong</span> <br />
-                Full Stack Web Developer &nbsp; - &nbsp; React.js / Node.js
-            </p>
+            <h1 className='name'>Kevin Wong</h1>
+            <h2>Full Stack Web Developer &nbsp; - &nbsp; React.js / Node.js</h2>
             <hr />
         </div>
     );
